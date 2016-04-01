@@ -1,6 +1,6 @@
 {
   "name": "lodash-pickdeep",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lodash mixin to add a `pickDeep` function",
   "author": {
     "name": "James M. Greene",
@@ -25,7 +25,10 @@
     "deepPick",
     "mixin",
     "chainable",
-    "plugin"
+    "lodash-plugin",
+    "lodashplugin",
+    "_-plugin",
+    "_plugin"
   ],
   "main": "index.js",
   "scripts": {
