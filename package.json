@@ -1,6 +1,6 @@
 {
   "name": "lodash-pickdeep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lodash mixin to add a `pickDeep` function",
   "author": {
     "name": "James M. Greene",
